@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-socketio
+python-dotenv
+pydub
+speechrecognition
+pyjwt
+requests
+ffmpeg-python
+flask
+flask_cors
+flask_sqlalchemy
+requests
+pyjwt
+werkzeug
