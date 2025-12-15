@@ -13,3 +13,4 @@ flask_sqlalchemy
 requests
 pyjwt
 werkzeug
+gunicorn
